@@ -1,0 +1,24 @@
+
+============================== Start Log ==============================
+          Time Stamp: Sunday 17 January 2021  16  01 31 PM
+=======================================================================
+System.DivideByZeroException: Attempted to divide by zero.
+   at TestAutoService.AutoEngine.API.Tests.Steps.BoardApiSteps.GivenReadRootUrlKeyAndTokenFrom(String jsonFilePath) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\API\Tests\Steps\BoardApiSteps.cs:line 60
+============================== End Log ================================
+
+
+============================== Start Log ==============================
+          Time Stamp: Sunday 17 January 2021  16  02 20 PM
+=======================================================================
+System.DivideByZeroException: Attempted to divide by zero.
+   at TestAutoService.AutoEngine.API.Tests.Steps.BoardApiSteps.GivenReadRootUrlKeyAndTokenFrom(String jsonFilePath) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\API\Tests\Steps\BoardApiSteps.cs:line 60
+============================== End Log ================================
+
+
+============================== Start Log ==============================
+          Time Stamp: Sunday 17 January 2021  16  18 05 PM
+=======================================================================
+System.DivideByZeroException: Attempted to divide by zero.
+   at TestAutoService.AutoEngine.API.Tests.Steps.BoardApiSteps.GivenReadRootUrlKeyAndTokenFrom(String jsonFilePath) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\API\Tests\Steps\BoardApiSteps.cs:line 60
+============================== End Log ================================
+

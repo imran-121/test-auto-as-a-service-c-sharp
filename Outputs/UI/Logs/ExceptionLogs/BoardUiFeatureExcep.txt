@@ -1,0 +1,30 @@
+
+============================== Start Log ==============================
+          Time Stamp: Sunday 17 January 2021  04  53 19 AM
+=======================================================================
+System.DivideByZeroException: Attempted to divide by zero.
+   at TestAutoService.AutoEngine.UI.Steps.TrelloBoardSteps.GivenUserIsAlreadyLoggedIntoTheSystem(Table table) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Tests\Steps\TrelloBoardSteps.cs:line 92
+============================== End Log ================================
+
+
+============================== Start Log ==============================
+          Time Stamp: Sunday 17 January 2021  04  55 02 AM
+=======================================================================
+OpenQA.Selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=87.0.4280.141)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.SendKeys(String text)
+   at TestAutoService.AutoEngine.UI.Logic.Pages.LoginPage.Fn_LoginUser(String userName, String userPass, String url) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Logic\Pages\LoginPage.cs:line 54
+   at TestAutoService.AutoEngine.UI.Steps.TrelloBoardSteps.GivenUserIsAlreadyLoggedIntoTheSystem(Table table) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Tests\Steps\TrelloBoardSteps.cs:line 94
+============================== End Log ================================
+
+
+============================== Start Log ==============================
+          Time Stamp: Sunday 17 January 2021  05  00 56 AM
+=======================================================================
+System.DivideByZeroException: Attempted to divide by zero.
+   at TestAutoService.AutoEngine.UI.Steps.TrelloBoardSteps.GivenUserIsAlreadyLoggedIntoTheSystem(Table table) in C:\Users\imran.satti\source\repos\TestAutoService\TestAutoService\AutoEngine\UI\Tests\Steps\TrelloBoardSteps.cs:line 92
+============================== End Log ================================
